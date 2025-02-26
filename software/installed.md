@@ -51,3 +51,5 @@
 50. fcitx5-im-emoji-picker-git
 51. rpi-imager
 52. gvfs-mtp
+55. numlockx
+- 56. tldr (python)
