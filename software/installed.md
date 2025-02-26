@@ -52,3 +52,4 @@
 51. rpi-imager
 52. gvfs-mtp
 55. numlockx
+- 56. tldr (python)
